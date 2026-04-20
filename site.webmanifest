@@ -1,0 +1,21 @@
+{
+  "name": "Ocel African Hair Braiding",
+  "short_name": "Ocel",
+  "description": "Expert African hair braiding studio in Las Vegas. Cornrows, knotless braids, twists, locs, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
