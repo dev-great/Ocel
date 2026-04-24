@@ -4,11 +4,12 @@ import { routePaths } from "../navigations/routes";
 import Logo from "../assets/Ocel-1.png";
 
 const CONTACT = {
-  address: "2450 W Charleston Blvd, Las Vegas, NV",
-  phone: "+1 (702) 555-0142",
-  phoneHref: "tel:+17025550142",
-  email: "hello@ocelbraiding.com",
-  emailHref: "mailto:hello@ocelbraiding.com",
+  address: "5020 E Tropicana Ave, Suite 2B",
+  addressLine2: "Las Vegas, NV 89122",
+  phone: "(702) 934-2007",
+  phoneHref: "tel:+17029342007",
+  email: "garmenkaizer@gmail.com",
+  emailHref: "mailto:garmenkaizer@gmail.com",
   instagramHref: "https://www.instagram.com/ocelafricanhairbraiding/",
   facebookHref: "https://www.facebook.com/OcelAfricanHairBraiding",
 };
